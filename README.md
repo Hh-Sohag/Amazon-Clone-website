@@ -1,5 +1,6 @@
-# Amazon Clone website
-Building a high-performance clone of amazon.com . Currently setting up the folder structure, core components, and theme configuration. Stay tuned for the first deployment!
+# NexGen website
+The Nexgen website is a clone to amazon website. This project was just built for practice and cloning.
 <br>
 Author - hhSohag
+
 
